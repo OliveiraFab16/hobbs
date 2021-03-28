@@ -1,0 +1,30 @@
+body{ 
+font-size: 20px ;
+background-repeat:no-repeat  ;
+background-size: cover;
+background-attachment: fixed;
+background-image: 1080px;
+text-align: center;
+background-image: url(fundo.jpeg);
+}
+
+div a{
+border: 2px solid black;
+}   
+
+div > a{
+color:blue;
+}
+
+div h1{
+border: 2px solid black;
+border-bottom-width: 8px;
+}
+div > h1{
+color:rgb(0, 0, 0);
+text-align: center;
+}
+
+
+
+
